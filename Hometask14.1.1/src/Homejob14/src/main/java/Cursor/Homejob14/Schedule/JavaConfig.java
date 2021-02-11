@@ -1,7 +1,7 @@
 package Cursor.Homejob14.Schedule;
 
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.TaskScheduler;
 import org.springframework.scheduling.annotation.EnableScheduling;
